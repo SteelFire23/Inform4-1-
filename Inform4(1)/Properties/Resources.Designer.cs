@@ -423,9 +423,9 @@ namespace Inform4_1_.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Shirt1_1 {
+        internal static System.Drawing.Bitmap Shirt {
             get {
-                object obj = ResourceManager.GetObject("Shirt1.1", resourceCulture);
+                object obj = ResourceManager.GetObject("Shirt", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

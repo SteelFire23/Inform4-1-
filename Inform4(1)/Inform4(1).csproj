@@ -81,9 +81,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Shirt.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\6 буба.png" />
   </ItemGroup>
   <ItemGroup>
@@ -190,6 +187,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\К-ва чирва.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Атласная_колода_экстра_рубашка.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
